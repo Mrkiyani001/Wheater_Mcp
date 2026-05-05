@@ -30,7 +30,8 @@ class CheckWheaterTool extends Tool
             "elevation"=>$weather['elevation'] ?? null
         ]));   
     }
-
+ 
+    
     public function schema(JsonSchema $schema): array
     {
         return [

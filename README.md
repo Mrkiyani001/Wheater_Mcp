@@ -1,4 +1,7 @@
 <div align="center">
+
+<img src="banner.png" width="800" alt="Laravel Weather MCP Banner" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); margin-bottom: 20px;"/>
+
 # 🌤️ Laravel Weather MCP Server
 
 ### *A production-ready Model Context Protocol (MCP) server built on Laravel — powering AI assistants with real-time weather intelligence.*
